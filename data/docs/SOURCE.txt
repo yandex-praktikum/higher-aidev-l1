@@ -1,0 +1,6 @@
+fetched_at_utc=2026-07-27T05:03:17Z
+sitemap=https://yandex.ru/support/metrica/sitemap.xml
+base=https://yandex.ru/support/metrica/ru/
+pages_ok=407
+pages_fail=0
+note=Educational snapshot; live documentation may change.
